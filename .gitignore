@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.log
+agent.pid
+watchdog.pid
